@@ -1,6 +1,6 @@
 This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum. Find it [here](https://www.theodinproject.com/lessons/ruby-on-rails-forms)
 
-A simple project made for learning purposes only
+Made for learning purposes only
 
 Instructions:
 Run the server $ bin/rails server
